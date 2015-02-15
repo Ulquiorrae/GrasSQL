@@ -1,4 +1,4 @@
-# GrasDatabase
+
 
 Napravite bazu podataka za nekog prevoznika. Prevoznik u svom voznom parku ima autobuse, tramvaje i trolejbuse.
 Osim toga baza treba da sadrzava i podatke o vozacima (ime i prezime, godine, godina zaposlenja). Baza treba da zadrzava podatke
