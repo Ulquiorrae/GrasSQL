@@ -11,11 +11,11 @@ insert into Vehicle values (?, 'Trolejbus');
 insert into Vehicle values (?, 'Trolejbus');
 insert into Vehicle values (?, 'Trolejbus');
 
-insert into Driver values(?, 'Halid', 'Begic', 42, 15);
-insert into Driver values(?, 'Mustafa', 'Sandzaklija', 47, 8);
-insert into Driver values(?, 'Hamza', 'Crnogorac', 35, 3);
-insert into Driver values(?, 'Mirza', 'Bosanac', 22, 1);
-insert into Driver values(?, 'Mirsad', 'Slovenac', 26, 3);
+insert into Driver values(?, 'Jon', 'Jones', 42, 15);
+insert into Driver values(?, 'Derrick', 'Rose', 47, 8);
+insert into Driver values(?, 'Allen', 'Iverson', 35, 3);
+insert into Driver values(?, 'Anderson', 'Silva', 22, 1);
+insert into Driver values(?, 'Anthony', 'Kiedis', 26, 3);
 
 insert into Lines values (?, 'Vjecnica', 'Dobrinja', 7, 1, 1);
 insert into Lines values (?, 'Vjecnica', 'Hrasnica', 7, 1, 2);
